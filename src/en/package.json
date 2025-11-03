@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "colormap": "^2.3.2",
-    "kompas": "^0.0.1",
+    "kompas": "^0.0.2",
     "ol": "^7.0.0",
     "ol-mapbox-style": "^9.0.0"
   },
