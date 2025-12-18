@@ -16,6 +16,6 @@
     "start": "node serve.js"
   },
   "dependencies": {
-    "openlayers": "4.0.1"
+    "openlayers": "4.6.5"
   }
 }
