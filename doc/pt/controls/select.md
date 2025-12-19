@@ -81,7 +81,7 @@ No exemplo anterior, utilizamos a classe `ol.control.Control`. Controles possuem
       </script>
     </body>
   </html>
-  ```        
+  ```
 
 1. Salve suas alterações no arquivo `map.html` e abra a página no navegador: {{ book.workshopUrl }}/map.html. Para ver a seleção da feature em ação, dê um clique para selecionar um terremoto:
 

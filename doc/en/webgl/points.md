@@ -20,7 +20,7 @@ You can see that we specified a `style` parameter when creating the layer, and t
 
 Changing the style of a WebGL layer is quite different from the rest of the library. Instead of using the `Fill`, `Stroke` and `Image` classes like other vector layers, we simply have to provide an object with the style parameters. The supported properties for this object are pretty straightforward: `opacity`, `color`, `size`, `offset`, `src` (for images) and `symbolType` (which can be `circle`, `square`, `triangle` or `image`).
 
-> WebGL layers use a completely different rendering system, and the style object is actually transformed dynamically into fragment and vertex shaders. 
+> WebGL layers use a completely different rendering system, and the style object is actually transformed dynamically into fragment and vertex shaders.
 
 By navigating in the map you might already notice a performance improvement from the previous step where we were using a standard Canvas 2D layer.
 
@@ -30,7 +30,7 @@ Let's begin by sizing our circles depending on the mass of the meteorite. To ach
 
 [import:'size'](../../../src/en/examples/webgl/dynamic.js)
 
-This expression results in a minimum size of 8 pixels, which can grow by 18 pixels depending on the mass of the meteorite,  
+This expression results in a minimum size of 8 pixels, which can grow by 18 pixels depending on the mass of the meteorite,
 
 The `WebGLPointsLayer` class supports this kind of expression for the numerical attributes of its style (size, opacity, color components, etc.).
 

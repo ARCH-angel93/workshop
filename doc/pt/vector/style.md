@@ -72,15 +72,15 @@
         return smallStyles;
       } else {
         return defaultStyles;
-      }      
+      }
     }
   ```
 
-1. Salve as alterações e abra o arquivo `map.html` no seu navegador: {{ book.workshopUrl }}/map.html  
+1. Salve as alterações e abra o arquivo `map.html` no seu navegador: {{ book.workshopUrl }}/map.html
 
     ![Edifícios coloridos em função da área](style1.png)
 
-1. Como passo final, vamos adicionar um rótulo para os edifícios. Por simplicidade, estamos colocando somente um rótulo e um contorno preto como estilo.    
+1. Como passo final, vamos adicionar um rótulo para os edifícios. Por simplicidade, estamos colocando somente um rótulo e um contorno preto como estilo.
 
   ```js
     style: (function() {

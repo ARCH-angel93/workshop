@@ -43,17 +43,17 @@ Contudo, a título de exemplo, vamos imaginar que seu mapa já esteja com muitas
 
 1. Agora modifique o código criando o controle ScaleLine e fazendo com que ele referencie este elemento:
 
-  ```js   
+  ```js
     controls: ol.control.defaults().extend([
       new ol.control.ScaleLine({className: 'ol-scale-line', target: document.getElementById('scale-line')})
     ]),
   ```
 
-1. Salve suas alterações e abra o arquivo `map.html` no navegador: {{ book.workshopUrl }}/map.html    
+1. Salve suas alterações e abra o arquivo `map.html` no navegador: {{ book.workshopUrl }}/map.html
 
 1. Defina a posição do controle com, por exemplo, a seguinte declaração CSS:
 
-  ```css    
+  ```css
     .scale-line {
       position: absolute;
       top: 350px;
@@ -65,7 +65,7 @@ Contudo, a título de exemplo, vamos imaginar que seu mapa já esteja com muitas
     }
   ```
 
-1. Salve suas alterações e abra o arquivo `map.html` novamente no navegador: {{ book.workshopUrl }}/map.html    
+1. Salve suas alterações e abra o arquivo `map.html` novamente no navegador: {{ book.workshopUrl }}/map.html
 
   ![O controle ScaleLine fora do mapa](scaleline2.png)
 

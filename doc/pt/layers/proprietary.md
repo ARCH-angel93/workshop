@@ -19,7 +19,7 @@ Vamos adicionar uma camada Bing!
     })
   ```
   *Nota* - A API do Bing requer que você registre uma chave para usá-lo dentro de sua aplicação. Este exemplo usa uma chave que você não deve utilizar em produção. Para usar em produção, registre uma chave em: https://www.bingmapsportal.com/.
-  
+
 1. Salve as alterações e recarregue o arquivo `map.html`em seu navegador: {{ book.workshopUrl }}/map.html
 
   ![Um mapa com uma camada Bing](proprietary1.png)

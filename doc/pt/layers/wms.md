@@ -87,7 +87,7 @@ O construtor da classe `ol.source.TileWMS` tem um único argumento (ver: http://
 
 1. Este mesmo servidor WMS fornece uma camada [Natural Earth](http://www.naturalearthdata.com/) chamada `'ne:NE1_HR_LC_SR_W_DR'`. Mude o valor do parâmetro `LAYERS` de `'nasa:bluemarble'` para `'ne:NE1_HR_LC_SR_W_DR'`.
 
-  Seu construtor da classe ol.layer.Tile deve ficar assim: 
+  Seu construtor da classe ol.layer.Tile deve ficar assim:
 
   ```js
     new ol.layer.Tile({
