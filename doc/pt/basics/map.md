@@ -49,7 +49,7 @@ Vejamos um exemplo completo de um mapa OpenLayers.
 
 ### Tarefas
 
-1.  Certifique-se de ter completado a [preparação do ambiente](../) para instalar as dependências e ter o servidor de depuração rodando. 
+1.  Certifique-se de ter completado a [preparação do ambiente](../) para instalar as dependências e ter o servidor de depuração rodando.
 
 1.  Copie o texto acima em um arquivo chamado `map.html` e salve-o no diretório raiz do workshop.
 

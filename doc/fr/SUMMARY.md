@@ -21,7 +21,7 @@
 * [Les sujets liés aux vecteurs](vector/README.md)
   * [Aparté sur les formats](vector/formats.md)
   * [Concepts de styles](vector/style-intro.md)
-  * [Styles personnalisés](vector/style.md)  
+  * [Styles personnalisés](vector/style.md)
 
 * [Les `build` personnalisés](custom-builds/README.md)
   * [Concepts](custom-builds/concepts.md)

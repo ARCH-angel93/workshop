@@ -90,8 +90,8 @@ Vamos agora voltar ao exemplo dos dados sobre terremotos:
 
 1. Recarregue a página {{ book.workshopUrl }}/map.html no navegador
 
-  *Nota* - Você verá os mesmos dados vetoriais, mas representados como uma imagem. Ainda será possível fazer a detecção das geometrias, mas os dados vetoriais terão uma qualidade menor. Assim, é essencialmente um trade-off entre desempenho e qualidade. 
-  
+  *Nota* - Você verá os mesmos dados vetoriais, mas representados como uma imagem. Ainda será possível fazer a detecção das geometrias, mas os dados vetoriais terão uma qualidade menor. Assim, é essencialmente um trade-off entre desempenho e qualidade.
+
 ### Olhando mais de perto
 
 Vamos examinar a criação da camada para entender o que está acontecendo.

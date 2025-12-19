@@ -8,7 +8,7 @@ A alteração de features funciona a partir da combinação da classe `ol.intera
 
 1. Vamos iniciar com o exemplo completo. Abra o arquivo `map.html` em seu editor de texto e deixe-o assim:
 
-  ```html  
+  ```html
   <!doctype html>
   <html lang="en">
     <head>
@@ -83,7 +83,7 @@ A alteração de features funciona a partir da combinação da classe `ol.intera
       </script>
     </body>
   </html>
-  ```        
+  ```
 
 1. Salve suas alterações no arquivo `map.html` e abra a página em seu navegador: {{ book.workshopUrl }}/map.html. Para ver o componente em ação, clique para selecionar um terremoto e arraste para mover o ponto.
 

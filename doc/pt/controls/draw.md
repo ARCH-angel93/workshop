@@ -73,7 +73,7 @@ Novas geometrias podem ser desenhadas utilizando a interação `ol.interaction.D
   ```
 
 1. Salve suas alterações no arquivo `map.html` e abra a página em seu navegador: {{ book.workshopUrl }}/map.html. Para desenhar um ponto, clique sobre o mapa e adicione uma nova feature:
-  
+
   ![Usando uma interação para adicionar geometrias para uma fonte vetorial](draw1.png)
 
 ### Tarefas de Bônus

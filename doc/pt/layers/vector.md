@@ -99,7 +99,7 @@ A camada recebe o título de `'Earthquakes'` e algumas outras opções. Dentre a
 
 1. Os círculos brancos no mapa representam um objeto `ol.Feature` da sua camada `ol.layer.Vector`. Cada uma dessas features, possui as propriedades `title` e `summary`. Registre um listener `'singleclick'` no mapa que chama o método `forEachFeatureAtPixel` e mostra informações sobre o terremoto abaixo do mapa.
 
-1. Os dados da camada vetorial são de um feed publicado pela USGS (http://earthquake.usgs.gov/earthquakes/catalogs/). Veja se você consegue encontrar informações adicionais em formatos suportados pelo OpenLayers. Se você salvar outro documento no diretório `data`, você deve ser capaz de visualizá-lo por meio de uma camada vetorial. 
+1. Os dados da camada vetorial são de um feed publicado pela USGS (http://earthquake.usgs.gov/earthquakes/catalogs/). Veja se você consegue encontrar informações adicionais em formatos suportados pelo OpenLayers. Se você salvar outro documento no diretório `data`, você deve ser capaz de visualizá-lo por meio de uma camada vetorial.
 
 ### Soluções
 

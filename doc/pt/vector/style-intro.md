@@ -101,7 +101,7 @@ Se você quiser que todas as features sejam vermelhas, exceto aquelas que possue
       return primaryStyle;
     } else {
       return otherStyle;
-    }    
+    }
   });
 ```
 

@@ -40,7 +40,7 @@ O projeto [OpenStreetMap (OSM)](http://www.openstreetmap.org/) é um esforço pa
     </script>
   ```
 
-1. No `<head>` do mesmo documento, adicione algumas declarações de estilo para a camada:  
+1. No `<head>` do mesmo documento, adicione algumas declarações de estilo para a camada:
 
   ```html
     <style>
@@ -54,7 +54,7 @@ O projeto [OpenStreetMap (OSM)](http://www.openstreetmap.org/) é um esforço pa
     </style>
   ```
 
-1. Salve suas alterações e atualize a página no seu navegador: {{ book.workshopUrl }}/map.html  
+1. Salve suas alterações e atualize a página no seu navegador: {{ book.workshopUrl }}/map.html
 
   ![Uma camada `tiled` com uma fonte OSM](cached1.png)
 

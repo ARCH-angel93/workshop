@@ -72,7 +72,7 @@ Nesta seção, criaremos um `build` personalizado para criação do mapa do [úl
     </html>
   ```
 
-2. Crie um arquivo de `build` chamado `ol-custom.json` para este mapa:   
+2. Crie um arquivo de `build` chamado `ol-custom.json` para este mapa:
 
 ```json
 !INCLUDE "../../shared/vector-chapter-build-config.json"
