@@ -6,7 +6,7 @@
   "dependencies": {
     "colormap": "^2.3.2",
     "kompas": "^0.0.1",
-    "ol": "^7.0.0",
+    "ol": "^7.5.2",
     "ol-mapbox-style": "^9.0.0"
   },
   "eslintConfig": {
