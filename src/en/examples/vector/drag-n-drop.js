@@ -8,15 +8,15 @@ import View from 'ol/View';
 import DragAndDrop from 'ol/interaction/DragAndDrop';
 //! [import]
 
-//! [map-const]
+//! [map]
 const map = new Map({
-  //! [map-const]
   target: 'map-container',
   view: new View({
     center: [0, 0],
     zoom: 2,
   }),
 });
+//! [map]
 
 map.addInteraction(new Link());
 
@@ -36,6 +36,6 @@ map.addInteraction(
   new DragAndDrop({
     source: source,
     formatConstructors: [GeoJSON],
-  })
+  }),
 );
 //! [interaction]
