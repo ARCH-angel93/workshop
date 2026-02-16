@@ -8,7 +8,7 @@
     "kompas": "^0.0.2",
     "ol": "^10.3.0",
     "ol-mapbox-style": "^12.6.1",
-    "papaparse": "^5.4.1"
+    "papaparse": "^5.5.3"
   },
   "eslintConfig": {
     "extends": "openlayers",
